@@ -6,9 +6,9 @@ Glad your here!
 I am Nanlir Godwin. I currently learning Frontend/Backend Development.
 
 
-You can reach me [on twitter]([https://twitter.com/Nanlir5])
+You can reach me [on twitter](https://twitter.com/nanlir5)
 
-Looking Forward to meeting you!
+Looking Forward to collabration with you!
 
 
 
